@@ -40,7 +40,7 @@ Response to User
 
 1. **Clone the repository**:
 ```bash
-git clone <repository-url>
+git clone https://github.com/mandeepkaur19/weather-agent-with-rag.git
 cd "AI Assignment"
 ```
 
@@ -94,7 +94,7 @@ streamlit run app.py
    - Click "Process PDF" to add it to the vector store
 
 3. **Start chatting**:
-   - Ask weather questions: "What's the weather in London?"
+   - Ask weather questions: "What's the weather in Mumbai?"
    - Ask questions about your PDF: "What is machine learning?"
    - The agent will automatically route your query to the appropriate service
 
@@ -256,7 +256,4 @@ pytest tests/ -v
 
 This project is created for educational purposes as part of an AI assignment.
 
-## Contact
-
-For questions or issues, please refer to the repository issues section.
 
